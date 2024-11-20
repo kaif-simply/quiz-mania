@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Problem Statement
+
+This project is a quiz-based application where users can answer questions, select topics, and receive feedback based on their performance. The goal is to design an interactive quiz with different topics, display questions with multiple options, and calculate the score once the quiz is completed. Additionally, the user should be able to see feedback based on their performance, including correct, incorrect, and skipped answers.
+
+## Completed Features
+
+- Displaying a list of questions with multiple-choice options.
+- Keeping track of correct, incorrect, and skipped answers.
+- Showing a score percentage at the end of the quiz.
+- Handling user interactions for selecting topics, answering questions, and viewing results.
 
 ## Getting Started
 
